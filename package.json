@@ -1,0 +1,23 @@
+{
+  "name": "assignment6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1996Vasukannan/skillsafari-assignment6.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1996Vasukannan/skillsafari-assignment6/issues"
+  },
+  "homepage": "https://github.com/1996Vasukannan/skillsafari-assignment6#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
